@@ -1,7 +1,7 @@
 # Projeto_java
 Esse projeto serve para realizar cadastros.
 Nele você também fara entradas e saídas no acesso.
-Você não poderá fazer uma segunda entrada se você já fez outra entrada e não a finalizou com uma saídaa.
+Você não poderá fazer uma segunda entrada se você já fez outra entrada e não a finalizou com uma saída.
 Não poderá fazer insert's na saída, apenas updates aonde o acesso já tenha uma entrada.
 
 
