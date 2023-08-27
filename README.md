@@ -6,6 +6,7 @@ Não poderá fazer insert's na saída, apenas updates aonde o acesso já tenha u
 
 
 Para fazer os testes use o insonmia.
+E crie no postgre um database chamado EstagioJava
 
 -- Para lidar com o cadastro --
 
